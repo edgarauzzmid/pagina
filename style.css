@@ -1,0 +1,70 @@
+
+body{
+    background-color: rgb(219, 218, 218);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.navbar{
+    background-color: black;
+    width: auto;
+}
+
+.navbar ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.navbar ul li{
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+.navbar ul li a{
+    color: white;
+    display: block;
+    padding: 22px 25px;
+    text-decoration: none;
+}
+
+.navbar ul li a:hover{
+    color: teal;
+}
+.perfil{
+    float: right;
+}
+
+.formulario{
+    width: 700px;
+    height: 500px;
+    margin-top: 30px;
+    background: rgb(192, 196, 201);
+    float: right;
+}
+
+.formulario h1{
+    text-align: center;
+}
+.tituloo{
+    text-align: center;
+}
+.enviar{
+    text-align: center;
+    margin-top: 25px;
+}
+.descripcionn{
+    text-align: center;
+}
+.radioo{
+    text-align: center;
+}
+.prioridades{
+    text-align: center;
+}
+.formguard{
+    width: 700px;
+    height: 500px;
+    margin-top: 30px;
+    background: rgb(192, 196, 201);
+}
